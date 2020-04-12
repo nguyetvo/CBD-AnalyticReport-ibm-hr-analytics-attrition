@@ -23,3 +23,6 @@ Step by step to make a good report
 10. Build model
 11. Test model
 12. Check stability model
+
+Next, calculate PCA by hand to find eigenvalue-eigenvectors pairs and the principal components Y1,Y2,Y3.
+
